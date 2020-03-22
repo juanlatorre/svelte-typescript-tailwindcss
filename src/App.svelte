@@ -11,5 +11,4 @@
 
 <main id="app" class="mx-auto">
   <Hello name="Rick" />
-  <h1>hhe</h1>
 </main>
